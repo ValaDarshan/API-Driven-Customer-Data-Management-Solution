@@ -1,0 +1,37 @@
+body {
+	margin: 2em;
+}
+
+table {
+	margin-top:20px;
+	border-collapse: collapse;
+	width: 100%;
+	border: 1px solid #ddd;
+}
+
+th,
+td {
+	border: 1px solid #ddd;
+	padding: 8px;
+	text-align: left;
+}
+
+.action{
+	width: 50px;
+	height: 30px;
+	margin:10px;
+	border-radius: 5px;
+	color: white;
+}
+
+.createEmp{
+	width: 150px;
+	height: 50px;
+	margin:20px;
+	border-radius: 10px;
+	background-color: blue;
+	color: antiquewhite;
+}
+th {
+	background-color: #f2f2f2;
+}
